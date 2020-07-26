@@ -1,2 +1,2 @@
 # scooby_ugv
-Autonomous driving Unmanned ground vehicle
+Autonomous driving Unmanned Ground Vehicle
