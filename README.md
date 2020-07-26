@@ -1,3 +1,7 @@
+<center>
+<img src="./media/cover.png" alt="Drawing"/>
+</center>
+
 # scooby
 
 Welcome! This is an open source self-driving development platform aimed for rapid prototyping, deep learning, and robotics research. The system currently runs on a modified electric golf cart. Here are our goals:
