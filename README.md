@@ -1,5 +1,5 @@
 <center>
-<img src="https://drive.google.com/file/d/1gh1ljlF6MaLzzI5Wr941BMh34574mKWN/view?usp=sharing" alt="Drawing"/>
+<img src="./media/cover.JPG" alt="Drawing"/>
 </center>
 
 # scooby
